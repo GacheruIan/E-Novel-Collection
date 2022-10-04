@@ -12,14 +12,14 @@
     {
       "id": 2,
       "title": "Helen Hardt.",
-      "Description": "She’s a take-charge woman. But he’s a master of control.Skye Manning knows what she wants. Her job as assistant and photographer for a major social media influencer isn’t perfect, but it’s a rung on the ladder to bigger and better things",
+      "Description": "She’s a take-charge woman. But he’s a master of control.Skye Manning knows what she wants. Her job as assistant and photographer,  Her job as assistant.",
       "image": "https://i.ibb.co/WGW04n1/Helen-Hardt.jpg"
     },
   
     {
       "id": 3,
       "title": "Solar Bones.",
-      "Description": " plot revolves around Marcus Conway, a deceased middle-aged engineer who has returned on All Souls' Day, and is reminiscing about his past life's events .", 
+      "Description": "Solar Bones revolves around Marcus Conway, a deceased middle-aged engineer who has returned on All Souls' Day, and is reminiscing about his past life's events .", 
       "image": "https://i.ibb.co/KDTLPM5/Solar-Bones.jpg"
     },
 
@@ -33,7 +33,7 @@
     {
       "id": 5,
       "title": "The-Kite-Runner",
-      "Description": "The Kite Runner is the first novel by Afghan-American author Khaled Hosseini.[1] Published in 2003 by Riverhead Books, it tells the story of Amir, a young boy from the Wazir Akbar Khan district of Kabul. The story is set against a backdrop of tumultuous events, from the fall of Afghanistan's monarchy through the Soviet invasion, the exodus of refugees to Pakistan and the United States, and the rise of the Taliban regime.",
+      "Description": "The Kite Runner is the first novel by Afghan-American author Khaled Hosseini.[1] Published in 2003 by Riverhead Books, it tells the story of Amir, a young boy from the Wazir Akbar Khan district of Kabul.",
       "image": "https://i.ibb.co/cN0pCkZ/The-Kite-Runner-Riverhead-Edition.jpg"
     },
   
@@ -41,9 +41,50 @@
     {
       "id": 6,
       "title": "The Price of Salt",
-      "Description": "Based on a true story plucked from Highsmith's own life, The Price of Salt (or Carol) tells the riveting drama of Therese Belivet, a stage designer trapped in a department-store day job, whose routine is forever shattered by a gorgeous epiphany—the appearance of Carol Aird,",
+      "Description": "Based on a true story plucked from Highsmith's own life, The Price of Salt (or Carol) tells the riveting drama of Therese Belivet, a stage designer trapped in a department-store day job, whose routine is forever shattered by a gorgeous epiphany—the appearance of Carol Aird.",
       "image": "https://i.ibb.co/Mgddx9D/The-Price-of-Salt-by-Patricia-Highsmith-best-lesbian-novels.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Lord-of-The-Rings",
+      "Description": "The Lord of the Rings is the saga of a group of sometimes reluctant heroes who set forth to save their world from consummate evil. Its many worlds and creatures were drawn from Tolkien's extensive knowledge of philology and folklore.",
+      "image": "https://i.ibb.co/3rVpV9G/Lord-Rings.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The-Elements-of-the-Crown ",
+      "Description": "Based on a true story plucked from Highsmith's own life, The Price of Salt (or Carol) tells the riveting drama of Therese Belivet, a stage designer trapped in a department-store day job, whose routine is forever shattered by a gorgeous epiphany—the appearance of Carol Aird.",
+      "image": "https://i.ibb.co/kSFkg4q/The-Elements-of-the-Crown.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Kresley-Cole",
+      "Description": "Kresley Cole is an American bestselling author of paranormal romance and young adult novels. She has received three Romance Writers of America (RWA) RITA Awards and was inducted into the RWA Hall of Fame in 2009.",
+      "image": "https://i.ibb.co/RC8f2Dw/Kresley-Cole.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Lord-Winter",
+      "Description": "The Lord of Winter is a gigantic feybeast that appears in the north of Ehrenfest during winter and is responsible for causing blizzards. There are multiple feybeasts that can become the Lord of Winter, with the strongest emerging with the title.",
+      "image": "https://i.ibb.co/BBcgYTf/Lord-Winter.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Leviathan-Loch",
+      "Description": "The Axis forces won World War II, and a monstrous tower rising from the ruins of Philadelphia is the heart of the Nazi-occupied United States. Norm Cromwell does what he can to survive under the restrictive regime of The New Republik of America,",
+      "image": "https://i.ibb.co/sy9y88F/Leviathan-Loch.jpg"
+    },
+    {
+      "id": 12,
+      "title": "A-Spark-of-Madness",
+      "Description": "A new dystopian dark romance! When Mercy refuses to serve the men of Ember Glen as they purge beneath the full moon, Arlo forces her to find absolution through three brutal trials. Yet their chemistry is undeniable.",
+      "image": "https://i.ibb.co/X2W7j5k/A-Spark-of-Madness.jpg"
     }
+
+
+
+
+  
   
   
   
