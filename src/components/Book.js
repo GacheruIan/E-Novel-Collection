@@ -1,20 +1,19 @@
-import React from 'react'
+import React from "react";
 
-function Book({img}) {
-   console.log(img.image)
+function Book({ img }) {
+  console.log(img.image);
   return (
-    
-    <div>
-      <div className="book-title">
+    <div className="book-card">
+      <div className="book-Title">
         <h2>{img.title}</h2>
       </div>
-      <div className="book-image">
-        <img src = {img.image} alt="images" width={180}></img>
+      <div className="book-Image">
+        <img src={img.image} alt="images" width={200}></img>
       </div>
-      <div className="book-description">
+      <div className="book-Description">
         <p>{img.Description}</p>
       </div>
     </div>
-  )
+  );
 }
-export default Book
+export default Book;
