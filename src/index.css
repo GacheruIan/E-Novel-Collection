@@ -16,11 +16,32 @@ body {
     border-radius:1rem;
     padding: 0.3rem 1rem;
     margin-left: 35%;
-    background-color: wheat;
-    color: red;
+    background-color: rgb(207, 215, 223);
 }
-.book-Card{
-    display: row;
+/* .book-Title, .book-Image{
+  display: flex;
+  flex-direction: row;
+   
+}
+.book-Description{
+    width: 500px;
+    margin-left: 50%;
+} */
+.book-Description{
+    width: 200px;
+    margin-top: 75%;
+    margin-left: -36%;
+}
+.book-card:hover{
+    background-color: yellow;
     
-    
+}
+.book-card{
+    padding: 0px 20px;    
+    display: flex;
+    float: left;
+    margin-left: 4%;
+}
+.book-Image{
+    margin-top: 20%;
 }
