@@ -29,19 +29,18 @@ body {
 } */
 .book-Description{
     width: 200px;
-    margin-top: 75%;
-    margin-left: -36%;
+    margin-top: -5%;
+    margin-left: 0%;
 }
 .book-card:hover{
-    background-color: yellow;
+    background-color: rgb(188, 160, 188);
     
 }
 .book-card{
     padding: 0px 20px;    
-    display: flex;
     float: left;
-    margin-left: 4%;
+ 
 }
 .book-Image{
-    margin-top: 20%;
+    margin-top: 10%;
 }
