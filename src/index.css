@@ -5,7 +5,6 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    
   }
   
 .search-bar{
@@ -36,7 +35,7 @@ p{
    margin-left: 15%;
 }
 .book-card:hover{
-    background-color: yellowgreen;
+    transform: scale(1.1); 
     
 }
 .book-card{

@@ -1,6 +1,8 @@
 import React, {useState, useEffect} from 'react'
 import SearchComponent from './Search'  
 import HomePage from './HomePage'
+import About from './About'
+import AddPageForm from './AddPageForm'
 
 
 function MainComponent() {
@@ -23,7 +25,6 @@ function MainComponent() {
     <div>
       <SearchComponent change={change}/>
       <HomePage images = {images}/>
-      
     </div>
   )
 }
