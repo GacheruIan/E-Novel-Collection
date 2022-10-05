@@ -5,6 +5,7 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    
   }
   
 .search-bar{
@@ -18,24 +19,23 @@ body {
     margin-left: 35%;
     background-color: rgb(207, 215, 223);
 }
-/* .book-Title, .book-Image{
-  display: flex;
-  flex-direction: row;
-   
+p{
+    font-family: 'Alkalami', serif;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
 }
-.book-Description{
-    width: 500px;
-    margin-left: 50%;
-} */
 .book-Description{
     width: 200px;
     margin-top: -5%;
     margin-left: 0%;
 }
-.book-card:hover{
+.book-Title{
+   margin-left: 18%;
+}
+/* .book-card:hover{
     background-color: rgb(188, 160, 188);
     
-}
+} */
 .book-card{
     padding: 0px 20px;    
     float: left;
