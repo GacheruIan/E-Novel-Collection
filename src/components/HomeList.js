@@ -1,7 +1,7 @@
 import React from "react";
 import Book from "./Book";
 
-function HomePage({ images }) {
+function HomeList({ images }) {
   return (
     <div>
       {images.map((img) => {
@@ -13,4 +13,4 @@ function HomePage({ images }) {
   );
 }
 
-export default HomePage;
+export default HomeList;
