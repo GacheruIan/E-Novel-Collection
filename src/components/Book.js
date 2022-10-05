@@ -1,7 +1,6 @@
 import React from "react";
 
 function Book({ img }) {
-  console.log(img.image);
   return (
     <div className="book-card">
       <div className="book-Title">

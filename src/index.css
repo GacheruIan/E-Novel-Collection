@@ -19,6 +19,9 @@ body {
     margin-left: 35%;
     background-color: rgb(207, 215, 223);
 }
+input{
+    font-size: 1.3rem;
+}
 p{
     font-family: 'Alkalami', serif;
     font-family: 'Raleway', sans-serif;
@@ -30,15 +33,16 @@ p{
     margin-left: 0%;
 }
 .book-Title{
-   margin-left: 18%;
+   margin-left: 15%;
 }
-/* .book-card:hover{
-    background-color: rgb(188, 160, 188);
+.book-card:hover{
+    background-color: yellowgreen;
     
-} */
+}
 .book-card{
     padding: 0px 20px;    
     float: left;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
  
 }
 .book-Image{
