@@ -3,7 +3,14 @@ import React from "react";
 function About() {
   return (
     <div>
-      <h1>E-Novel Collection</h1>
+      <img src="https://m.media-amazon.com/images/I/51Ic9Gt8FvL._AC_SY780_.jpg"></img>
+      <img src="https://m.media-amazon.com/images/I/51Ic9Gt8FvL._AC_SY780_.jpg"></img>
+      <img src="https://m.media-amazon.com/images/I/51Ic9Gt8FvL._AC_SY780_.jpg"></img>
+      <img src="https://m.media-amazon.com/images/I/51Ic9Gt8FvL._AC_SY780_.jpg"></img>
+      <img src="https://m.media-amazon.com/images/I/51Ic9Gt8FvL._AC_SY780_.jpg"></img>
+      <img src="https://m.media-amazon.com/images/I/51Ic9Gt8FvL._AC_SY780_.jpg"></img>
+      <h1><u>E-Novel Collection.</u></h1>
+      
       <p>
         Due to the high rise in tech, the society is loosing the need to reading
         novels and the hobby is slowly fading away day by day, book clubs are
@@ -11,7 +18,7 @@ function About() {
         novels of any interest.
       </p>
 
-      <h3>Solution</h3>
+      <h3><u>Solution.</u></h3>
 
       <p>
         To create a handy solution that can bring novel reading back to its
