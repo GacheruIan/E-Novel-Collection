@@ -1,5 +1,4 @@
 {
-
   "images": [
     {
       "id": 1,
@@ -7,29 +6,24 @@
       "Description": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
       "image": "https://i.ibb.co/2Sh5VFP/Harry-Potter-and-the-Chamber-of-Secrets-book-cover.webp"
     },
-  
-  
     {
       "id": 2,
       "title": "Helen Hardt.",
       "Description": "She is a take-charge woman. But he is a master of control.Skye Manning knows what she wants. Her job as assistant and photographer,  Her job as assistant.",
       "image": "https://i.ibb.co/WGW04n1/Helen-Hardt.jpg"
     },
-  
     {
       "id": 3,
       "title": "Solar Bones.",
-      "Description": "Solar Bones revolves around Marcus Conway, a deceased middle-aged engineer who has returned on All Souls' Day, and is reminiscing about his past life's events .", 
+      "Description": "Solar Bones revolves around Marcus Conway, a deceased middle-aged engineer who has returned on All Souls' Day, and is reminiscing about his past life's events .",
       "image": "https://i.ibb.co/KDTLPM5/Solar-Bones.jpg"
     },
-
     {
       "id": 4,
       "title": "The Baghdad Clock.",
       "Description": "The Baghdad Clock is a tale of two friends growing up during the first and second Iraqi war. Shahad Al Rawi uses magic realism to illustrate the displacement felt by a young girl and her neighbourhood. ",
       "image": "https://i.ibb.co/9ZBp5sc/The-Baghdad-Clock.jpg"
     },
-
     {
       "id": 5,
       "title": "The-Kite-Runner.",

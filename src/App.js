@@ -1,9 +1,10 @@
 import React, { useState } from "react";
 import { Switch, Route } from "react-router-dom";
-import Form from "./components/Form";
+
 import About from "./components/About";
 import Main from "./components/Main";
 import NavBar from "./components/NavBar";
+import FormReview from "./components/Form";
 
 function App() {
   const [page, setPage] = useState("/")
@@ -17,7 +18,7 @@ function App() {
             <About />
         </Route>
         <Route path="/form">
-            <Form />
+            <FormReview />
         </Route>
         <Route exact path="/">
             <Main />
