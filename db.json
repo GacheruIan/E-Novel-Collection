@@ -89,6 +89,24 @@
       "title": "Shade-of-Darkness.",
       "Description": "Diana Duvail is an officer with the Charleston Police Department. Her reputation as a hard-working, by the book, team player is well known. But Diana’s got a secret.While on patrol, the unimaginable happens; her secret is revealed, and she finds herself reassigned to the paranormal unit.",
       "image": "https://i.ibb.co/x6QS63x/Shade-of-Darkness.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Cruella-Devil.",
+      "Description": "She is an eccentric, fashion-obsessed heiress who wishes to use the skins of 99 Dalmatian puppies to create a spotted fur coat. Regarded as a witch and devil woman, Cruella's infatuation with furs drives her to murderous insanity.",
+      "image": "https://i.ibb.co/SRbWcCL/Cruella.jpg"
+    },
+    {
+      "title": "Titanic",
+      "image": "https://i.ibb.co/k8RLq3R/remembering-the-titanic.jpg",
+      "Description": "The true story of the world's most famous ship is retold in this beautiful book with stunning visuals and a gripping narrative. One fateful night in 1912 the so-called Ship of Dreams turned into a nightmare in the Atlantic Ocean after hitting an iceberg and sinking on its maiden voyage.",
+      "id": 17
+    },
+    {
+      "title": "Cigatha.",
+      "image": "https://i.ibb.co/5YTZrMV/Cigatha.jpg",
+      "Description": "Agatha Christie’s (15 September 1890 – 12 January 1976)  trademarks in detective fiction brought to maturity the classical tradition of the genre, which was in its adolescence when she began to write with furs drives her to murderous insanity.",
+      "id": 17
     }
   ]
 }

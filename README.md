@@ -28,16 +28,15 @@ This is a website that shows a list of novels and a user can view the novels tog
  e) **Installation Process**
     Technology Used:-**
 
-    •  HTML - which was used to build the structure of the pages.
+    •  HTML - Used to render the React files..
       
-    •  JavaScript – Used to add functionality to the web page.
+    •  ReactJs – buil my interactive user interface quickly and efficiently with significantly less code than you would with vanilla JavaScript.
       
     •  CSS - which was used to style the pages. 
 
 f) **Project Preview** <br>
-  
-    
-   
+  <video src='src/assets/Novel/React App.webm' width=180>
+
       
 g) **Reference**
 

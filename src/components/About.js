@@ -9,6 +9,7 @@ function About() {
       <img src="https://m.media-amazon.com/images/I/51Ic9Gt8FvL._AC_SY780_.jpg"></img>
       <img src="https://m.media-amazon.com/images/I/51Ic9Gt8FvL._AC_SY780_.jpg"></img>
       <img src="https://m.media-amazon.com/images/I/51Ic9Gt8FvL._AC_SY780_.jpg"></img>
+      
       <h1><u>E-Novel Collection.</u></h1>
       
       <p>
