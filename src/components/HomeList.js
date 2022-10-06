@@ -2,6 +2,7 @@ import React from "react";
 import Book from "./Book";
 
 function HomeList({ images }) {
+
   return (
     <div>
       {images.map((img) => {

@@ -1,9 +1,9 @@
 import React, {useState, useEffect} from 'react'
 import SearchComponent from './Search'  
-import HomePage from './HomeList'
+import HomeList from './HomeList'
 
 
-function MainComponent() {
+function Main() {
   const [images, setImages] = useState([])
   const [searchValue,setSearchValue] = useState([])
  
@@ -15,6 +15,7 @@ function MainComponent() {
       setSearchValue(resp)
     })
   },[])
+
  
   function change(event){
     setImages(searchValue.filter(images=>images.title.toLowerCase().includes(event.target.value.toLowerCase())))
@@ -22,10 +23,10 @@ function MainComponent() {
   return (
     <div>
       <SearchComponent change={change}/>
-      <HomePage images = {images}/>
+      <HomeList images = {images}/>
 
     </div>
   )
 }
 
-export default MainComponent
+export default Main

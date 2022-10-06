@@ -75,9 +75,3 @@ p{
     align-items: center;
     padding: .65rem;
 }
-.nav li:hover{
-    background-color: #777;
-}
-.nav li.active{
-    background-color: #555;
-}
