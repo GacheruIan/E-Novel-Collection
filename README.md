@@ -35,7 +35,7 @@ This is a website that shows a list of novels and a user can view the novels tog
     •  CSS - which was used to style the pages. 
 
 f) **Project Preview** <br>
- <img src = "src/assets/Novel/WhatsApp Image 2022-10-07 at 9.40.25 AM.jpeg">
+ <img src = "https://i.ibb.co/JyhcV0g/Whats-App-Image-2022-10-07-at-9-40-25-AM.jpg ">
 
       
 g) **Reference**
