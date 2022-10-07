@@ -35,7 +35,7 @@ This is a website that shows a list of novels and a user can view the novels tog
     •  CSS - which was used to style the pages. 
 
 f) **Project Preview** <br>
-  <video src='src/assets/Novel/React App.webm' width=180>
+ 
 
       
 g) **Reference**
@@ -46,7 +46,7 @@ g) **Reference**
 
 
 
-h) **** License****
+h) **License**
 
 MIT License
 
