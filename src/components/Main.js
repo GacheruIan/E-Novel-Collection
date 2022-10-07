@@ -7,7 +7,7 @@ function Main() {
   const [searchValue, setSearchValue] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:3000/images")
+    fetch("https://novel-collections.herokuapp.com/images")
       .then((res) => res.json())
       .then((resp) => {
         setImages(resp);

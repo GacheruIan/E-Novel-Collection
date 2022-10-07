@@ -10,7 +10,7 @@ function Form() {
     e.preventDefault();
     const form = {title,image,Description}
    
-    fetch('http://localhost:3000/images',{
+    fetch('https://novel-collections.herokuapp.com/images',{
       method: 'POST',
       headers:{'Content-Type':'application/json'},
       body: JSON.stringify(form)
